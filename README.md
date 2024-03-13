@@ -18,6 +18,7 @@ Awesome List of PureData Externals/Libraries/Compilers and another things.
   - [WebServers](#webservers)
 - [Compilation Tools for Pure Data Objects](#compilation-tools-for-pure-data-objects)
 - [Pd for Web Enviroments](#pd-for-web-enviroments)
+- [Pd-to-C Converter](#pd-to-c-converter)
 
 ## Externals
 
@@ -247,7 +248,7 @@ List of PureData externals. For objects/libraries marked with ✅️ in the `Dek
   </tr>
 </table>
 
-## Pd and Iot
+## Pd-to-C Converter
 
 <table align="center">
   <tr>
